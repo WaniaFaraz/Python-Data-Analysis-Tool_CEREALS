@@ -1,7 +1,7 @@
 # Python-Data-Analysis-Tool_CEREAL
 ### <div align="center"> Python &bull; Mathplotlib </div>
 ### CEGEP (college) assignment
-Command line interface program that reads data from a text file and sorts and searches the data for display. It also uses Matplotlib to generate pie charts.
+Command line interface program that reads data from a text file and sorts and searches the data for display in a tabular format. It also uses Matplotlib to generate pie charts.
 ### Menu:
  1 - How many records are there in the data file? Print all records\
  2 - Display a numbered list to show each company and number of cereals produced\
@@ -16,4 +16,9 @@ Command line interface program that reads data from a text file and sorts and se
 11 - Show a distribution pie chart (count of cereals from different companies)\
 12 - Exit
 
-#### Since it is a simple Python program, it can be directly run in any environment that runs Python. The only thing to make sure of is to include the cereals.txt file in the same folder for the program to be able to read it.
+#### Since it is a simple Python program, it can be directly run in any environment that runs Python. The only things to make sure of are to include the cereals.txt file in the same folder for the program to be able to read it, and that Matplotlib is installed on the device.
+
+To install Matplotlib, run this command:
+```
+pip install matplotlib
+```
