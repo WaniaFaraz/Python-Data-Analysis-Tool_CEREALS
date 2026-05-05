@@ -1,11 +1,8 @@
-#Wania Faraz 2330636
-#420-LCU Computer Programming, Section 001
-#S. Hilal, instructor
-#Assignment 2
-
+# Author: Wania Faraz
+# CEGEP (college) Project
 
 menu = """
- 1-How many records are there in the data file? Print all record
+ 1-How many records are there in the data file? Print all records
  2-Display a numbered list to show each company and number of cereals produced  
  3-Which company produced the most cereals? How many? 
  4-Which company produced the least cereals? How many?
